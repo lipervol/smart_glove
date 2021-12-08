@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Hello/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.19814814814814816" />
+        <entry key="..\:/Hello/app/src/main/res/drawable/circle.xml" value="0.25" />
+        <entry key="..\:/Hello/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.25" />
+        <entry key="..\:/Hello/app/src/main/res/drawable/ic_baseline_bluetooth_24.xml" value="0.21388888888888888" />
+        <entry key="..\:/Hello/app/src/main/res/drawable/ic_baseline_bluetooth_disabled_24.xml" value="0.21388888888888888" />
+        <entry key="..\:/Hello/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19814814814814816" />
+        <entry key="..\:/Hello/app/src/main/res/drawable/listback.xml" value="0.14583333333333334" />
+        <entry key="..\:/Hello/app/src/main/res/drawable/listbackground.xml" value="0.14583333333333334" />
+        <entry key="..\:/Hello/app/src/main/res/drawable/listviewground2.xml" value="0.21388888888888888" />
+        <entry key="..\:/Hello/app/src/main/res/drawable/listviewgroundp.xml" value="0.20092592592592592" />
+        <entry key="..\:/Hello/app/src/main/res/drawable/showcard.xml" value="0.21388888888888888" />
+        <entry key="..\:/Hello/app/src/main/res/drawable/showcard2.xml" value="0.20092592592592592" />
+        <entry key="..\:/Hello/app/src/main/res/drawable/textviewcard.xml" value="0.21388888888888888" />
+        <entry key="..\:/Hello/app/src/main/res/layout-v31/activity_main.xml" value="0.2318840579710145" />
+        <entry key="..\:/Hello/app/src/main/res/layout/activity_about.xml" value="0.264" />
+        <entry key="..\:/Hello/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Hello/app/src/main/res/layout/myabout.xml" value="0.1296875" />
+        <entry key="..\:/Hello/app/src/main/res/layout/mylistview.xml" value="0.1296875" />
+        <entry key="..\:/Hello/app/src/main/res/layout/mypopup.xml" value="0.2536231884057971" />
+        <entry key="..\:/Hello/app/src/main/res/layout/mytextview.xml" value="0.1296875" />
+        <entry key="..\:/Hello/app/src/main/res/menu/mymenu.xml" value="0.25364583333333335" />
+        <entry key="..\:/Hello/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.19814814814814816" />
+        <entry key="..\:/Hello/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.19814814814814816" />
+        <entry key="..\:/Smart_Glove/Android/Hello/app/src/main/res/drawable/circle.xml" value="0.15677083333333333" />
+        <entry key="..\:/Smart_Glove/Android/Hello/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.15677083333333333" />
+        <entry key="..\:/Smart_Glove/Android/Hello/app/src/main/res/drawable/listbackground.xml" value="0.15677083333333333" />
+        <entry key="..\:/Smart_Glove/Android/Hello/app/src/main/res/drawable/listviewgroundp.xml" value="0.15677083333333333" />
+        <entry key="..\:/Smart_Glove/Android/Hello/app/src/main/res/drawable/showcard.xml" value="0.15677083333333333" />
+        <entry key="..\:/Smart_Glove/Android/Hello/app/src/main/res/drawable/showcard2.xml" value="0.15677083333333333" />
+        <entry key="..\:/Smart_Glove/Android/Hello/app/src/main/res/drawable/textviewcard.xml" value="0.15677083333333333" />
+        <entry key="..\:/Smart_Glove/Android/Hello/app/src/main/res/layout/activity_about.xml" value="0.140625" />
+        <entry key="..\:/Smart_Glove/Android/Hello/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Smart_Glove/Android/Hello/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Smart_Glove/Android/Hello/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/Smart_Glove/Android/Hello/app/src/main/res/layout/mypopup.xml" value="0.140625" />
+        <entry key="..\:/Smart_Glove/Android/Hello/app/src/main/res/layout/mytextview.xml" value="0.140625" />
+        <entry key="..\:/Smart_Glove/Android/Hello/app/src/main/res/menu/mymenu.xml" value="0.140625" />
+        <entry key="..\:/Smart_Glove/Android/Hello/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.15677083333333333" />
+        <entry key="..\:/Smart_Glove/Android/Hello/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.15677083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
